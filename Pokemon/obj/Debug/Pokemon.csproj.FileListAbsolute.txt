@@ -1,0 +1,14 @@
+C:\Users\cbo23\source\repos\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\cbo23\source\repos\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\cbo23\source\repos\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\cbo23\source\repos\Pokemon\Pokemon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cbo23\source\repos\Pokemon\Pokemon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cbo23\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\cbo23\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\cbo23\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.PokeVista.resources
+C:\Users\cbo23\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\cbo23\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\cbo23\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\cbo23\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CopyComplete
+C:\Users\cbo23\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\cbo23\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
